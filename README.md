@@ -1,4 +1,4 @@
-### CS572-Homework-06-Form-Router
+### CS572-Homework-07-Form-Router
 Given the mock [Products API](https://dummyjson.com/docs/products), create an Angular application that:
 * List products with pagination
 * Display full product details by ID
